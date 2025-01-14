@@ -1,7 +1,7 @@
 from azure.storage.blob import BlobServiceClient
 
 # Connection details
-CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=awdatalakestorage11;AccountKey=jPxmCjJImQWema/+vDDLPgoi9UyaYhpoCbeUeEJiCtAl/UFPh2N804xLsCOILPfb5st7JaLOiizA+ASt5KJa/A==;EndpointSuffix=core.windows.net"
+CONNECTION_STRING = "ConnectionKey"
 CONTAINER_NAME = "silver"  # Replace with your container name
 BLOB_NAME = "your-blob-name"  # Replace with the blob you want to download
 
