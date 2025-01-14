@@ -1,4 +1,6 @@
-# Adventure Works Azure Project
+# Adventure Works Azure Data Pipeline | [Dashboard](https://public.tableau.com/views/AW_Public_Dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Azure Data Pipeline](https://github.com/user-attachments/assets/59348e48-16e6-4c96-b35f-16b96bda071d)
 
 ## Project Overview
 
@@ -83,6 +85,8 @@ The project leverages Azure Data Factory for data ingestion, Azure Databricks fo
      - Customer demographics and purchasing behavior.
      - Performance metrics for product categories and subcategories.
 
+<img width="1186" alt="Dashboard" src="https://github.com/user-attachments/assets/4bb26e3e-4a21-40fb-a939-a912a2370442" />
+
 ---
 
 ## Tools and Technologies
@@ -102,7 +106,7 @@ The Adventure Works dataset consists of the following components:
 1. **Calendar Data**: Provides date and time-related dimensions.
 2. **Customer Information**: Captures customer demographics.
 3. **Product Data**: Includes product categories, subcategories, and details.
-4. **Sales Data (2015-2017)**: Tracks transaction details across years.
+4. **Sales Data (2023-2024)**: Tracks transaction details across years.
 5. **Territory Data**: Represents regional sales data.
 6. **Returns Data**: Logs product returns and related metrics.
 
@@ -120,17 +124,6 @@ All datasets were sourced from GitHub, with configurations managed in `git.json`
    - Uses Microsoft Entra ID and role-based access controls for secure resource access.
 4. **End-to-End Integration:**
    - Combines ingestion, transformation, warehousing, and visualization into a unified workflow.
-
----
-
-## Common Interview Questions
-
-1. **What is the Medallion Architecture?**
-   - A data organization strategy using Bronze, Silver, and Gold layers.
-2. **Difference Between Blob Storage and Data Lake Storage?**
-   - Blob Storage lacks hierarchical folder structures; Data Lake allows for them.
-3. **Why Use Synapse Analytics?**
-   - Combines data factory, big data transformation (PySpark), and data warehousing in a unified platform.
 
 ---
 
