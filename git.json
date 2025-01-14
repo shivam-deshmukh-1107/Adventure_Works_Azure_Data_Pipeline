@@ -1,0 +1,52 @@
+[
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+    "P_Sink_Folder": "AdventureWorks_Calender",
+    "P_Sink_File_name": "adventureworks_calender.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Customers.csv",
+    "P_Sink_Folder": "AdventureWorks_Customers",
+    "P_Sink_File_name": "adventureworks_customers.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+    "P_Sink_Folder": "AdventureWorks_Product_Categories",
+    "P_Sink_File_name": "adventureworks_product_categories.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+    "P_Sink_Folder": "AdventureWorks_Product_Subcategories",
+    "P_Sink_File_name": "adventureworks_product_subcategories.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Products.csv",
+    "P_Sink_Folder": "AdventureWorks_Products",
+    "P_Sink_File_name": "adventureworks_products.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+    "P_Sink_Folder": "AdventureWorks_Returns",
+    "P_Sink_File_name": "adventureworks_returns.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+    "P_Sink_Folder": "AdventureWorks_Sales_2015",
+    "P_Sink_File_name": "adventureworks_sales_2015.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+    "P_Sink_Folder": "AdventureWorks_Sales_2016",
+    "P_Sink_File_name": "adventureworks_sales_2016.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+    "P_Sink_Folder": "AdventureWorks_Sales_2017",
+    "P_Sink_File_name": "adventureworks_sales_2017.csv"
+  },
+  {
+    "P_Relative_URL": "shivam-deshmukh-1107/Adventure_Works_Azure_Project/refs/heads/main/Data/AdventureWorks_Territories.csv",
+    "P_Sink_Folder": "AdventureWorks_Territories",
+    "P_Sink_File_name": "adventureworks_territories.csv"
+  }
+]
